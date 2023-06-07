@@ -1,0 +1,7 @@
+.container-page-blog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-block: 60px;
+}
